@@ -1,0 +1,6 @@
+.container {
+  @apply grid grid-cols-3 grid-rows-[250px] gap-6;
+  div {
+    @apply bg-slate-700 rounded-md p-5;
+  }
+}
